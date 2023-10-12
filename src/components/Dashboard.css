@@ -1,0 +1,29 @@
+body {
+    background-color: lightpink; /* Set your desired background color for the entire page */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    font-family: Arial, sans-serif; /* Optional: Specify a font-family */
+}
+
+/* Use the same class name as in your Dashboard.js */
+.dashboard {
+    background-color: lightpink;
+    padding: 750px;
+    border-radius: 10px; /* Optional: Add rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow effect */
+}
+
+.welcome-message {
+    font-size: 24px;
+    color: #007bff; /* Blue color for the welcome message */
+}
+
+.logout-link {
+    color: #ff0000; /* Red color for the logout link */
+    text-decoration: none; /* Remove underlines from the link */
+    margin-top: 10px;
+}
+
+   
+  
+  

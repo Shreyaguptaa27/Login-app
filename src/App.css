@@ -1,0 +1,13 @@
+/* Add this CSS code to your project's styles (e.g., App.css) */
+/* Set the background color for the entire body or a container */
+/* Set the background color for the entire body */
+body {
+  background-color: lightblue;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
